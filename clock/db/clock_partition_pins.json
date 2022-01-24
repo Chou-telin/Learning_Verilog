@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Hr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Hr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Hr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Hr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Hr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Hr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Hr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Hr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Min[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Min[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Min[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Min[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Min[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Min[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Min[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Min[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Sec[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Sec[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Sec[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Sec[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Sec[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Sec[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Sec[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Sec[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clr",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
